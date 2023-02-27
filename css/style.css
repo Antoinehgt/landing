@@ -1,0 +1,22 @@
+@import url('components/container.css');
+@import url('components/avatar.css');
+@import url('components/button.css');
+@import url('components/banner.css');
+
+body {
+	font-family: Helvetica, serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+#GF {
+	text-align: center;
+}
+
+h1, h2, h3 {
+	font-family: "Bebas Neve", sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
